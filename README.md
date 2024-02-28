@@ -5,6 +5,13 @@
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=khushal-ganani&icon=0&color=1" alt="khushal-ganani"/> </p>
 
+## Contact Me:
+
+- <a href="mailto:khushal.ganani@gmail.com"><img src="https://www.dropbox.com/scl/fi/z4jjpuaz30wplkujtcdwh/Gmail_Logo_512px.png?rlkey=wkhu80tueuk4bl5bhj2qoh21j&raw=1" alt="Email" width="30" style="display: inline-block"/></a> [khushal.ganani@gmail.com](mailto:khushal.ganani@gmail.com)
+- <a href="https://www.linkedin.com/in/khushal-ganani/"><img src="https://www.dropbox.com/scl/fi/j8asufm9aowhaeo2kb7uw/LinkedIn_logo.png?rlkey=3g3wfqnby5kdvwjng4ubtajnr&raw=1" alt="LinkedIn" width="30" style="display: inline-block"/></a> [linkedin.com/in/khushal-ganani](https://linkedin.com/in/khushal-ganani)
+- <a href="https://www.salesforce.com/trailblazer/khushalg"><img src="https://www.dropbox.com/scl/fi/ku42ytth3f0osi1n1crbj/trailhead.png?rlkey=6jcvpye4ctywan6hk01j5gwzl&raw=1" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> [www.salesforce.com/trailblazer/khushalg](https://www.salesforce.com/trailblazer/khushalg)
+- <a href="tel:+919970557219"><img src="https://www.dropbox.com/scl/fi/t7blbfaz3afodygv9rc3y/phonelogo.png?rlkey=oe28dp0jk6kkfmfq3ldw6gqbw&raw=1" alt="Phone" width="30" style="display: inline-block"/></a> [+91 9970557219](tel:+919970557219)
+
 ## About Me
 - 🔭 Enthusiastic Salesforce Developer with a strong foundation in 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻, 𝗔𝗽𝗲𝘅, 𝗟𝗶𝗴𝗵𝘁𝗻𝗶𝗻𝗴 𝗪𝗲𝗯 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, 𝗔𝘂𝗿𝗮 𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 on the 𝙎𝙖𝙡𝙚𝙨 𝙖𝙣𝙙 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 𝘾𝙡𝙤𝙪𝙙𝙨 of the Salesforce CRM Platform.
 - 🌟I find immense joy in applying my skills in Salesforce Development and helping businesses Automate, Integrate, Improve Efficiency, Build Scalable and User-Friendly Apps with Salesforce. 
