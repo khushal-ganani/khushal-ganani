@@ -6,6 +6,7 @@
 - 🔭 I am an Enthusiastic Salesforce Developer with a strong foundation in **Salesforce Administration, Apex, Lightning Web Components(LWC), Aura and Integration Technologies** on the **_Sales and Service Clouds_** of the Salesforce CRM Platform.
 - 🌟I find immense joy in applying my skills in Salesforce Development and helping businesses Automate, Integrate, Improve Efficiency, and Build Scalable and User-Friendly Apps with Salesforce. 
 - 🚀 Collaborating with a dynamic team to contribute to impactful projects and furthering my expertise in the Salesforce ecosystem is what fuels my passion.
+- 👉 <a href="Resume Salesforce Developer Khushal Ganani LinkedIn.pdf" download>Click here</a> to download my Resume.
 
 ## 🎯 Skills
 - **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Lightning Web Components (LWC), Error and Exception Handling, SOQL, SOSL, SLDS, Aura, Visualforce
