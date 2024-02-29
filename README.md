@@ -8,14 +8,14 @@
 - 🚀 Collaborating with a dynamic team to contribute to impactful projects and furthering my expertise in the Salesforce ecosystem is what fuels my passion.
 
 ## 🎯 Skills
-- **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Asynchronous Apex (Future, Queueable, Batch), Error and Exception Handling, SOQL, SOSL, LWC (SLDS, Lightning Data Service, Lightning Message Service, Lifecycle Hooks, Shadow DOM), Aura Components, Visualforce
+- **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Lightning Web Components (LWC), Error and Exception Handling, SOQL, SOSL, SLDS, Aura, Visualforce
 - **`Salesforce Integration:`** REST/SOAP Web Services, Salesforce APIs, Custom Salesforce REST APIs, Callouts, OAuth 2.0 Authorization, Postman
-- **`Salesforce Administration:`** Data Model, Security Model, BPA (Flows, Process Builder, Workflow Rules, Approvals), Reports & Dashboards, Lightning Experience Customization, User Management, Data Management & Migration (Dataoader, Dataloader.io, Data Import Wizard, Workbench), Formulas and Validation
-- **`Other Technical Skills:`** JavaScript, HTML, CSS, Object-Oriented Programming (OOP), Java, GitHub, Postman
+- **`Salesforce Administration:`** Data Model, Security Model, BPA (Flows, Process Builder, Workflow Rules, Approvals), Reports & Dashboards, Lightning Experience Customization, User & Data Management
+- **`Other Technical Skills:`** JavaScript, HTML, CSS, Object-Oriented Programming (OOP), Java, GitHub
 
 ## 📄 Certifications
-- `Salesforce Certified Platform Developer I` (Credential ID: 4159514) [Click here](https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing "View Credential") to view credential.
-- `Salesforce Certified Administrator (SCA)` (Credential ID: 4121453) [Click here](https://drive.google.com/file/d/1fVWaRn1qv2IRvSz3gkli6iRBTroM8e6p/view?usp=sharing "View Credential") to view credential.
+- `Salesforce Certified Platform Developer I` <a href="https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing" target="_blank" title="View Credential">Click here</a> to view credential.
+- `Salesforce Certified Administrator (SCA)` <a href="https://drive.google.com/file/d/1fVWaRn1qv2IRvSz3gkli6iRBTroM8e6p/view?usp=sharing" target="_blank" title="View Credential">Click here</a> to view credential.
 
 ## 🌐 Projects
 ### `1. To-Do Manager Application` :
@@ -67,9 +67,9 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 📫 Contact Me:
 
-- <a href="mailto:khushal.ganani@gmail.com"><img src="https://www.dropbox.com/scl/fi/z4jjpuaz30wplkujtcdwh/Gmail_Logo_512px.png?rlkey=wkhu80tueuk4bl5bhj2qoh21j&raw=1" alt="Email" width="30" style="display: inline-block"/></a> [khushal.ganani@gmail.com](mailto:khushal.ganani@gmail.com "Khushal's Email")
-- <a href="https://www.linkedin.com/in/khushal-ganani/"><img src="https://www.dropbox.com/scl/fi/j8asufm9aowhaeo2kb7uw/LinkedIn_logo.png?rlkey=3g3wfqnby5kdvwjng4ubtajnr&raw=1" alt="LinkedIn" width="30" style="display: inline-block"/></a> [linkedin.com/in/khushal-ganani](https://linkedin.com/in/khushal-ganani "Khushal's LinkedIn")
-- <a href="https://www.salesforce.com/trailblazer/khushalg"><img src="https://www.dropbox.com/scl/fi/ku42ytth3f0osi1n1crbj/trailhead.png?rlkey=6jcvpye4ctywan6hk01j5gwzl&raw=1" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> [www.salesforce.com/trailblazer/khushalg](https://www.salesforce.com/trailblazer/khushalg "Khushal's Trailblazer Profile")
+- <a href="mailto:khushal.ganani@gmail.com"><img src="https://www.dropbox.com/scl/fi/z4jjpuaz30wplkujtcdwh/Gmail_Logo_512px.png?rlkey=wkhu80tueuk4bl5bhj2qoh21j&raw=1" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:khushal.ganani@gmail.com" target="_blank" title="Khushal's Email">khushal.ganani@gmail.com</a>
+- <a href="https://www.linkedin.com/in/khushal-ganani/"><img src="https://www.dropbox.com/scl/fi/j8asufm9aowhaeo2kb7uw/LinkedIn_logo.png?rlkey=3g3wfqnby5kdvwjng4ubtajnr&raw=1" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/khushal-ganani" target="_blank" title="Khushal's LinkedIn">linkedin.com/in/khushal-ganani</a>
+- <a href="https://www.salesforce.com/trailblazer/khushalg"><img src="https://www.dropbox.com/scl/fi/ku42ytth3f0osi1n1crbj/trailhead.png?rlkey=6jcvpye4ctywan6hk01j5gwzl&raw=1" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> <a href="https://www.salesforce.com/trailblazer/khushalg" target="_blank" title="Khushal's Trailblazer Profile">www.salesforce.com/trailblazer/khushalg</a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
