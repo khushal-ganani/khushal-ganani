@@ -7,7 +7,7 @@
 - 🌟I find immense joy in applying my skills in Salesforce Development and helping businesses Automate, Integrate, Improve Efficiency, and Build Scalable and User-Friendly Apps with Salesforce. 
 - 🚀 Collaborating with a dynamic team to contribute to impactful projects and furthering my expertise in the Salesforce ecosystem is what fuels my passion.
   
-### 👉 <a href="https://github.com/khushal-ganani/khushal-ganani/raw/main/Resume%20Salesforce%20Developer%20Khushal%20Ganani.pdf" download="Resume Salesforce Developer Khushal Ganani">Click here</a> to download my Resume.
+### 👉 <a href="https://github.com/khushal-ganani/khushal-ganani/blob/7fc0826415a4c62c098fbe99e71a7379f46db022/Resume%20Salesforce%20Developer%20Khushal%20Ganani%20Updated.pdf" download="Resume Salesforce Developer Khushal Ganani">Click here</a> to download my Resume.
 
 ## 🎯 Skills
 - **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Lightning Web Components (LWC), Error and Exception Handling, SOQL, SOSL, SLDS, Aura, Visualforce
