@@ -34,7 +34,7 @@ Enhanced task management efficiency with the To-Do Manager Application, resultin
 
 **`Technologies:`** LWC (record-edit-form, layout, combobox, card) | Lightning Message Service | (SLDS classes, styling hooks, design tokens) | Custom CSS | Apex (Wrapper, Controller, test) | Data Loader | Page Layouts | App Builder
 
-🔗 Check the GitHub Repository for the To-Manager Application project by clicking below:
+🔗 Check the GitHub Repository for the To-Manager Application project by clicking below <a href="tel:+919970557219"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/80734c12-4ad0-47f9-830c-e40971c6fb28" alt="Phone" width="30" style="display: inline-block"/></a> :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list)](https://github.com/khushal-ganani/todo-list "To-Do Manager Project Repository")
 
@@ -69,8 +69,9 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 📫 Contact Me:
 
-- <a href="mailto:khushal.ganani@gmail.com"><img src="https://www.dropbox.com/scl/fi/z4jjpuaz30wplkujtcdwh/Gmail_Logo_512px.png?rlkey=wkhu80tueuk4bl5bhj2qoh21j&raw=1" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:khushal.ganani@gmail.com" target="_blank" title="Khushal's Email">khushal.ganani@gmail.com</a>
-- <a href="https://www.linkedin.com/in/khushal-ganani/"><img src="https://www.dropbox.com/scl/fi/j8asufm9aowhaeo2kb7uw/LinkedIn_logo.png?rlkey=3g3wfqnby5kdvwjng4ubtajnr&raw=1" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/khushal-ganani" target="_blank" title="Khushal's LinkedIn">linkedin.com/in/khushal-ganani</a>
+- <a href="tel:+919970557219"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/94ea1405-e8f0-4d0f-b8e8-c22e027aa342" alt="Phone" width="30" style="display: inline-block"/></a> <a href="tel:+919970557219" target="_blank" title="Khushal's Phone">+91 9970557219</a>
+- <a href="mailto:khushal.ganani@gmail.com"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/2f95583c-b3ca-487e-a19b-3de9e6a9a675" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:khushal.ganani@gmail.com" target="_blank" title="Khushal's Email">khushal.ganani@gmail.com</a>
+- <a href="https://www.linkedin.com/in/khushal-ganani/"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/01f9bd3b-5ae7-4918-a64a-0f10a9a388e4" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/khushal-ganani" target="_blank" title="Khushal's LinkedIn">linkedin.com/in/khushal-ganani</a>
 - <a href="https://www.salesforce.com/trailblazer/khushalg"><img src="https://www.dropbox.com/scl/fi/ku42ytth3f0osi1n1crbj/trailhead.png?rlkey=6jcvpye4ctywan6hk01j5gwzl&raw=1" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> <a href="https://www.salesforce.com/trailblazer/khushalg" target="_blank" title="Khushal's Trailblazer Profile">www.salesforce.com/trailblazer/khushalg</a>
 
 ## 📊 GitHub Stats:
