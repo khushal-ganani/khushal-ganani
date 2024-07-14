@@ -1,6 +1,8 @@
 ![Banner](https://github.com/khushal-ganani/khushal-ganani/assets/152521234/5a66a1b3-ce2b-450a-872e-2a85babbbc6b)
 
-# Hi there, I'm Khushal Ganani 👋
+![](https://komarev.com/ghpvc/?username=khushal-ganani&style=for-the-badge&abbreviated=true)
+
+# Hi there, I'm Khushal Ganani 👋 <br> Salesforce Developer @ <a href="https://www.linkedin.com/company/motorolasolutions/">**`Motorola Solutions`**</a> <br>        
 
 ## 🌟 About Me
 - 🔭 I am an Enthusiastic Salesforce Developer with a strong foundation in **Salesforce Administration, Apex, Lightning Web Components(LWC), Aura and Integration Technologies** on the **_Sales and Service Clouds_** of the Salesforce CRM Platform.
@@ -13,11 +15,7 @@
 - **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Lightning Web Components (LWC), Error and Exception Handling, SOQL, SOSL, SLDS, Aura, Visualforce
 - **`Salesforce Integration:`** REST/SOAP Web Services, Salesforce APIs, Custom Salesforce REST APIs, Callouts, OAuth 2.0 Authorization, Postman
 - **`Salesforce Administration:`** Data Model, Security Model, BPA (Flows, Process Builder, Workflow Rules, Approvals), Reports & Dashboards, Lightning Experience Customization, User & Data Management
-- **`Other Technical Skills:`** JavaScript, HTML, CSS, Object-Oriented Programming (OOP), Java, GitHub
-
-## 📄 Certifications
-- `Salesforce Certified Platform Developer I` <a href="https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing" target="_blank" title="View Credential">Click here</a> to view credential.
-- `Salesforce Certified Administrator (SCA)` <a href="https://drive.google.com/file/d/1fVWaRn1qv2IRvSz3gkli6iRBTroM8e6p/view?usp=sharing" target="_blank" title="View Credential">Click here</a> to view credential.
+- **`Other Technical Skills:`** JavaScript, HTML, CSS, Object-Oriented Programming (OOP), Java, GitHub, BitBucket, Continuous Integration and Continuous Delivery (CI/CD)
 
 ## 🌐 Projects
 ### `1. To-Do Manager Application` :
@@ -51,7 +49,7 @@ https://github.com/khushal-ganani/todo-google-tasks-integration/assets/152521234
 - **`Overview:`** Integrated Salesforce with Google Tasks, and managed tasks across both platforms using a secure OAuth 2.0 Approach. Users benefit from a synchronised approach, streamlining task management for increased efficiency.
 - Implemented robust Google integration in Salesforce by setting up OAuth 2.0 Authorization, tested API calls through Postman and Google OAuth Playground, used Google Apps Script for data retrieval, and developed an Apex Trigger with a Trigger Handler Framework for seamless HTTP callouts on After Insert, After Update, and After Delete events on the To_Do__c object, including a Wrapper Class for effective JSON handling.	
 
-Enhanced task management efficiency with integration between Salesforce and Google Tasks App, resulting in a reduction in task completion time, an increase in user productivity, and sustained 100% Apex code coverage.
+Enhanced task management efficiency with integration between Salesforce and Google Tasks App, resulting in reduced task completion time, increased user productivity, and sustained 100% Apex code coverage.
 
 **`Technologies:`** OAuth 2.0 Authorization | Google (Tasks REST API, Cloud Console, OAuth 2.0  Playground, App Script) | Apex (Triggers, Async future methods, Wrapper, Test Classes) | Trigger Handler Framework | Auth. Providers | Named, External Credentials | Postman | GitHub  
 
@@ -66,6 +64,15 @@ Enhanced task management efficiency with integration between Salesforce and Goog
 This project simplified HR processes with a user-friendly platform, yielding a boost in efficiency,  faster record retrieval and maintained 100% code coverage, showcasing expertise in Apex, LWC, and Apex tests.
 
 **`Technologies:`** Apex Triggers, LWC, Modern JavaScript, SLDS, Custom CSS, Data Loader, Page Layouts, App Builder
+
+## 📄 Certifications
+- <a href="https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing" target="_blank" title="View Credential">**`Salesforce Certified Platform Developer I`**</a>
+- <a href="https://drive.google.com/file/d/1fVWaRn1qv2IRvSz3gkli6iRBTroM8e6p/view?usp=sharing" target="_blank" title="View Credential">**`Salesforce Certified Administrator (SCA)`**</a>
+
+## 🔗 Other Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios)](https://github.com/khushal-ganani/trigger-scenarios "Trigger Scenarios to Practice") 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice)](https://github.com/khushal-ganani/lwc-practice "LWC Scenarios to Practice")
 
 ## 📫 Contact Me:
 
