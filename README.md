@@ -34,7 +34,7 @@ Enhanced task management efficiency with the To-Do Manager Application, resultin
 
 🔗 Check the GitHub Repository for the To-Manager Application project by clicking below <a href="tel:+919970557219"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/80734c12-4ad0-47f9-830c-e40971c6fb28" alt="Phone" width="30" style="display: inline-block"/></a> :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list)](https://github.com/khushal-ganani/todo-list "To-Do Manager Project Repository")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list&theme=radical)](https://github.com/khushal-ganani/todo-list "To-Do Manager Project Repository")
 
 
 ### `2. To-Do Manager Integration with Google Tasks API` :
@@ -55,7 +55,7 @@ Enhanced task management efficiency with integration between Salesforce and Goog
 
 🔗 Check the GitHub Repository for To-Do Manager Integration with the Google Tasks API project by clicking below:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration)](https://github.com/khushal-ganani/todo-google-tasks-integration "To-Do Manager Integration Project Repository")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical)](https://github.com/khushal-ganani/todo-google-tasks-integration "To-Do Manager Integration Project Repository")
 
 ### `3. Employee Management Application` :
 - **`Overview:`** Streamlined HR processes with a comprehensive application featuring easy data input, dynamic record displays, and efficient search functionalities for different records, ensuring seamless management of information.
@@ -71,8 +71,8 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 🔗 Other Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios)](https://github.com/khushal-ganani/trigger-scenarios "Trigger Scenarios to Practice") 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice)](https://github.com/khushal-ganani/lwc-practice "LWC Scenarios to Practice")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios&theme=highcontrast)](https://github.com/khushal-ganani/trigger-scenarios "Trigger Scenarios to Practice") 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice&theme=highcontrast)](https://github.com/khushal-ganani/lwc-practice "LWC Scenarios to Practice")
 
 ## 📫 Contact Me:
 
