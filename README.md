@@ -83,4 +83,4 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
-[![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true)
