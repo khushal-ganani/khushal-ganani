@@ -34,8 +34,9 @@ Enhanced task management efficiency with the To-Do Manager Application, resultin
 
 🔗 Check the GitHub Repository for the To-Manager Application project by clicking below <a href="tel:+919970557219"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/80734c12-4ad0-47f9-830c-e40971c6fb28" alt="Phone" width="30" style="display: inline-block"/></a> :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list&theme=radical)](https://github.com/khushal-ganani/todo-list "To-Do Manager Project Repository")
-
+<div align="center">
+  <a href="https://github.com/khushal-ganani/todo-list" title="To-Do Manager Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list&theme=radical" alt="To-Do Manager Project Repository" height="180"/></a>
+</div>
 
 ### `2. To-Do Manager Integration with Google Tasks API` :
 
@@ -55,7 +56,9 @@ Enhanced task management efficiency with integration between Salesforce and Goog
 
 🔗 Check the GitHub Repository for To-Do Manager Integration with the Google Tasks API project by clicking below:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical)](https://github.com/khushal-ganani/todo-google-tasks-integration "To-Do Manager Integration Project Repository")
+<div align="center">
+  <a href="https://github.com/khushal-ganani/trigger-scenarios" title="To-Do Manager Integration Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical" alt="To-Do Manager Integration Project Repository" height="180"/></a>
+</div>
 
 ### `3. Employee Management Application` :
 - **`Overview:`** Streamlined HR processes with a comprehensive application featuring easy data input, dynamic record displays, and efficient search functionalities for different records, ensuring seamless management of information.
@@ -71,8 +74,10 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 🔗 Other Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios&theme=highcontrast)](https://github.com/khushal-ganani/trigger-scenarios "Trigger Scenarios to Practice") 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice&theme=highcontrast)](https://github.com/khushal-ganani/lwc-practice "LWC Scenarios to Practice")
+<div align="center">
+  <a href="https://github.com/khushal-ganani/trigger-scenarios" title="Trigger Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios&theme=highcontrast" height="150" alt="Trigger Scenarios to Practice" /></a>
+  <a href="https://github.com/khushal-ganani/lwc-practice" title="LWC Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice&theme=highcontrast" height="150" alt="LWC Scenarios to Practice"/></a>
+</div>
 
 ## 📫 Contact Me:
 
@@ -82,5 +87,7 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 - <a href="https://www.salesforce.com/trailblazer/khushalg"><img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/664d5190-d417-4818-a9af-056305be43c4" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> <a href="https://www.salesforce.com/trailblazer/khushalg" target="_blank" title="Khushal's Trailblazer Profile">www.salesforce.com/trailblazer/khushalg</a>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
-![](https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true)
+<div align="center">
+  <a href="" title="Khushal's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
+  <a href="" title="Khushal's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
+</div>
