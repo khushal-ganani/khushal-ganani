@@ -57,7 +57,7 @@ Enhanced task management efficiency with integration between Salesforce and Goog
 🔗 Check the GitHub Repository for To-Do Manager Integration with the Google Tasks API project by clicking below:
 
 <div align="center">
-  <a href="https://github.com/khushal-ganani/trigger-scenarios" title="To-Do Manager Integration Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical" alt="To-Do Manager Integration Project Repository" height="180"/></a>
+  <a href="https://github.com/khushal-ganani/todo-google-tasks-integration" title="To-Do Manager Integration Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical" alt="To-Do Manager Integration Project Repository" height="180"/></a>
 </div>
 
 ### `3. Employee Management Application` :
