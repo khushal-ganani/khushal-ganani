@@ -88,6 +88,6 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <a href="" title="Khushal's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
-  <a href="" title="Khushal's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
+  <a href="javascript:void(0);" title="Khushal's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-ganani&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
+  <a href="javascript:void(0);" title="Khushal's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=khushal-ganani&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
 </div>
