@@ -1,4 +1,4 @@
-![Banner](https://github.com/khushal-ganani/khushal-ganani/assets/152521234/5a66a1b3-ce2b-450a-872e-2a85babbbc6b)
+![Banner](https://github.com/khushal-ganani/khushal-ganani/blob/main/GitHub%20Banner%20New.png?raw=true)
 
 ![](https://komarev.com/ghpvc/?username=khushal-ganani&style=for-the-badge&abbreviated=true)
 
@@ -9,13 +9,13 @@
 - 🌟I find immense joy in applying my skills in Salesforce Development and helping businesses Automate, Integrate, Improve Efficiency, and Build Scalable and User-Friendly Apps with Salesforce. 
 - 🚀 Collaborating with a dynamic team to contribute to impactful projects and furthering my expertise in the Salesforce ecosystem is what fuels my passion.
   
-### 👉 <a href="https://github.com/khushal-ganani/khushal-ganani/raw/main/Resume%20Salesforce%20Developer%20Khushal%20Ganani%20Updated.pdf" download="Resume Salesforce Developer Khushal Ganani">Click here</a> to download my Resume.
+### 👉 <a href="https://github.com/khushal-ganani/khushal-ganani/raw/main/Salesforce%20Developer%20Khushal%20Ganani%20New.pdf" download="Resume Salesforce Developer Khushal Ganani">Click here</a> to download my Resume.
 
 ## 🎯 Skills
-- **`Salesforce Development:`** Apex (Triggers, Asynchronous, Handler, Controller, Wrapper, Test), Lightning Web Components (LWC), Error and Exception Handling, SOQL, SOSL, SLDS, Aura, Visualforce
-- **`Salesforce Integration:`** REST/SOAP Web Services, Salesforce APIs, Custom Salesforce REST APIs, Callouts, OAuth 2.0 Authorization, Postman
-- **`Salesforce Administration:`** Data Model, Security Model, BPA (Flows, Process Builder, Workflow Rules, Approvals), Reports & Dashboards, Lightning Experience Customization, User & Data Management
-- **`Other Technical Skills:`** JavaScript, HTML, CSS, Object-Oriented Programming (OOP), Java, GitHub, BitBucket, Continuous Integration and Continuous Delivery (CI/CD)
+- **`Salesforce Development:`** Apex (Triggers, Handler, Controller, Wrapper, Test, Frameworks), Asynchronous Apex (Future, Queueable, Batch), Error and Exception Handling, SOQL, SOSL, LWC (SLDS, Lightning Data Service, Lightning Message Service, Lifecycle Hooks, Shadow DOM), Aura Components, Visualforce Pages | Batch and Bulk Processing
+- **`Salesforce Integration:`** REST/SOAP Web Services | Salesforce APIs | Custom Apex REST APIs | Apex Callouts | OAuth 2.0 Authorization | Streaming APIs (Platform Events, Change Data Capture) | Postman
+- **`Salesforce Administration:`** Data Model | Security Model | BPA (Flows, Process Builder, Workflow Rules, Approvals) | Reports & Dashboards | Lightning Experience Customization | User Management | Data Management & Migration
+- **`Other Technical Skills:`** JavaScript | HTML | CSS | Object Oriented Programming (OOPs) | SOLID Principles | OOP Design Patterns | Java | Git, GitHub | Node.js | Deployments (Change Sets, CI/CD, SFDX) | Jenkins | Atlassian (BitBucket, JIRA, Confluence)
 
 ## 🌐 Projects
 ### `1. To-Do Manager Application` :
