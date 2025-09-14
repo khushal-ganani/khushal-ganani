@@ -102,7 +102,7 @@ Currently, I'm contributing to impactful projects at Motorola Solutions, where I
 🔗 Check the GitHub Repository for exploring Design Patterns for Salesforce Developers by clicking below:
 
 <div align="center">
-  <a href="https://github.com/khushal-ganani/design-patterns-salesforce" title="Design Patterns for Salesforce Developers Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=design-patterns-salesforce&theme=radical" alt="Design Patterns for Salesforce Developers Repository" height="180"/></a>
+  <a href="https://github.com/khushal-ganani/design-patterns-salesforce" title="Design Patterns for Salesforce Developers Repository" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=design-patterns-salesforce&theme=radical" alt="Design Patterns for Salesforce Developers Repository" height="180"/></a>
 </div>
 
 
@@ -123,7 +123,7 @@ Enhanced task management efficiency with the To-Do Manager Application, resultin
 🔗 Check the GitHub Repository for the To-Manager Application project by clicking below:
 
 <div align="center">
-  <a href="https://github.com/khushal-ganani/todo-list" title="To-Do Manager Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list&theme=radical" alt="To-Do Manager Project Repository" height="180"/></a>
+  <a href="https://github.com/khushal-ganani/todo-list" title="To-Do Manager Project Repository" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-list&theme=radical" alt="To-Do Manager Project Repository" height="180"/></a>
 </div>
 
 ### To-Do Manager Integration with Google Tasks API
@@ -145,16 +145,8 @@ Enhanced task management efficiency with integration between Salesforce and Goog
 🔗 Check the GitHub Repository for To-Do Manager Integration with the Google Tasks API project by clicking below:
 
 <div align="center">
-  <a href="https://github.com/khushal-ganani/todo-google-tasks-integration" title="To-Do Manager Integration Project Repository"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical" alt="To-Do Manager Integration Project Repository" height="180"/></a>
+  <a href="https://github.com/khushal-ganani/todo-google-tasks-integration" title="To-Do Manager Integration Project Repository" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=todo-google-tasks-integration&theme=radical" alt="To-Do Manager Integration Project Repository" height="180"/></a>
 </div>
-
-### Employee Management Application :
-- **`Overview:`** Streamlined HR processes with a comprehensive application featuring easy data input, dynamic record displays, and efficient search functionalities for different records, ensuring seamless management of information.
-- Engineered a robust data model that streamlined user interactions. Implemented strategic Apex Triggers to ensure data integrity and automate processes, while crafting dynamic Lightning Web Components, including lightning-datatable with enable-infinite-loading, and designing lightning-modal components for a superior user experience and efficient record creation, achieving comprehensive 100% code coverage.
-
-This project simplified HR processes with a user-friendly platform, yielding a boost in efficiency,  faster record retrieval and maintained 100% code coverage, showcasing expertise in Apex, LWC, and Apex tests.
-
-**`Technologies:`** Apex Triggers, LWC, Modern JavaScript, SLDS, Custom CSS, Data Loader, Page Layouts, App Builder
 
 ## 📄 Certifications
 - <a href="https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing" target="_blank" title="View Credential">**Salesforce Certified Platform Developer I**</a>
@@ -164,8 +156,8 @@ This project simplified HR processes with a user-friendly platform, yielding a b
 ## 🔗 Other Repositories:
 
 <div align="center">
-  <a href="https://github.com/khushal-ganani/trigger-scenarios" title="Trigger Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios&theme=highcontrast" height="150" alt="Trigger Scenarios to Practice" /></a>
-  <a href="https://github.com/khushal-ganani/lwc-practice" title="LWC Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice&theme=highcontrast" height="150" alt="LWC Scenarios to Practice"/></a>
+  <a href="https://github.com/khushal-ganani/trigger-scenarios" title="Trigger Scenarios to Practice" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=trigger-scenarios&theme=highcontrast" height="150" alt="Trigger Scenarios to Practice" /></a>
+  <a href="https://github.com/khushal-ganani/lwc-practice" title="LWC Scenarios to Practice" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khushal-ganani&repo=lwc-practice&theme=highcontrast" height="150" alt="LWC Scenarios to Practice"/></a>
 </div>
 
 ## 🤝 Let's Connect
@@ -174,13 +166,13 @@ I'm always excited to discuss Salesforce innovations, collaborate on challenging
 
 **Ready to build something amazing together?** 
 
-<a href="https://www.linkedin.com/in/khushal-ganani/">
+<a href="https://www.linkedin.com/in/khushal-ganani/" target="_blank">
     <img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/01f9bd3b-5ae7-4918-a64a-0f10a9a388e4" alt="LinkedIn" width="30" style="display: inline-block; margin-right: 18px;"/>
 </a>
-<a href="mailto:khushal.ganani@gmail.com">
+<a href="mailto:khushal.ganani@gmail.com" target="_blank">
     <img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/2f95583c-b3ca-487e-a19b-3de9e6a9a675" alt="Email" width="37" style="display: inline-block; margin-right: 18px;"/>
 </a> 
-<a href="https://www.salesforce.com/trailblazer/khushalg">
+<a href="https://www.salesforce.com/trailblazer/khushalg" target="_blank">
     <img src="https://github.com/khushal-ganani/khushal-ganani/assets/152521234/664d5190-d417-4818-a9af-056305be43c4" alt="Trailblazer Profile" width="31" style="display: inline-block"/
 </a>
 
